@@ -1,0 +1,27 @@
+{
+  "name": "سبيل - رحلتك اليومية مع الله",
+  "short_name": "سبيل",
+  "description": "منصة إسلامية متكاملة تقدم مكتبة قرآنية صوتية، أذكار يومية، ومواقيت صلاة. كل ما يقرِّبك إلى الله في مكان واحد.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "theme_color": "#2c786c",
+  "background_color": "#f5f7fa",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhQ1E4zEGnnlxAY3IPM2J8EiMQFAif5piwGAUx_TDSHATtka51rA4eQEJ-vKaxQzOSmh0tlaC7bMW-9NW_DWtOxT03TevHfP9rg1i4XnqdZZ_qc10Qwg3pKnajdCTKNebk87KgkwtSCz7324a3taBEJY5kej0UOAbT4d_BRe7o0nV6NQ9pUYvUfo7lutso/s1600/%D8%B3%D8%A8%D9%8A%D9%8A%D9%84.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable icon"
+    },
+    {
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyzJBqP56QEZcWuD0NbpHxx7SVZGH3eZKQYrDwRtx3eRv0nKccMPptsHJiKu4PAucANNh_zQlMH7pIEQPgC_rri9pls4qo05tToKKJED3DMjyy_S9cLk4PBcVhVkKuntTxMC-pm4yZV-OfO_jwr8qt6MuVRjN4De119hsJWoSHOR7PQBYcD3VmIP-zQBw/s320/%D8%B3%D8%A8%D9%8A%D9%84.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable icon"
+    }
+  ]
+}
