@@ -2,7 +2,7 @@
   "name": "سبيل - رحلتك اليومية مع القرءان الكريم و الأذكار",
   "short_name": "سبيل",
   "description": "منصة إسلامية تقدم مكتبة قرآنية صوتية، أذكار يومية، ومواقيت صلاة..",
-  "url": "www.sabilonline.com",
+  "description": "www.sabilonline.com",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "/",
@@ -27,5 +27,6 @@
   ]
 
 }
+
 
 
