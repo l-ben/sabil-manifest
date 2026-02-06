@@ -1,7 +1,8 @@
 {
-  "name": "سبيل - رحلتك اليومية مع الله",
+  "name": "سبيل - رحلتك اليومية مع القرءان الكريم و الأذكار",
   "short_name": "سبيل",
-  "description": "منصة إسلامية متكاملة تقدم مكتبة قرآنية صوتية، أذكار يومية، ومواقيت صلاة. كل ما يقرِّبك إلى الله في مكان واحد.",
+  "description": "منصة إسلامية تقدم مكتبة قرآنية صوتية، أذكار يومية، ومواقيت صلاة..",
+  "url": "www.sabilonline.com",
   "lang": "ar",
   "dir": "rtl",
   "start_url": "/",
@@ -18,7 +19,7 @@
       "purpose": "maskable icon"
     },
     {
-      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM7RBQAn1Rhf59_tBYrX3LIB-yTIzjj7vFZi3TzYO_zz8COT57eoSBREkm0qGj0mBjdvwdSJYPY2-tYA6z6G_N2Brr9IKwbYvUBmGIhyphenhyphenJLT_xMHeXlcNoe6bjzVzVF8Zl4dqnEs990aVQUVEsvxRGL8Sl7QjVzTN04MPc93xR-qDnqA02KNcuwYK9XScc/s320/%D8%B3%D8%A8%D9%8A%D9%84.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBS73CDcp3zOoBh2j2vHX6qALm3uZ37zpjrIRZbpEfC23V30xtZX1mcfo-j97bI7O3p7yBoBS_qmzR033DFqN5kozVvhaM6CeBUmWvHuCvFxO2uYutoRWmLRKvRIRatoH5d7Pl-3Dvd6UqdE0YXuMigglWXbsVObVDDg6G7nanGyjkmIyBU0ivAUArbzY/w400-h400/%D8%B3%D8%A8%D9%8A%D9%84.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable icon"
@@ -26,4 +27,5 @@
   ]
 
 }
+
 
